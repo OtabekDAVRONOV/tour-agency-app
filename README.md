@@ -23,10 +23,13 @@ First of all, I want to share with references of tools and packages used in this
         - asset: assets/fonts/Gilroy-Light.ttf
 As it is known from given paths, thes .ttf files were downloaded first, and placed in assets/fonts folder of the flutter project.
 
-Additionally, there was created database file tith the name of examinationDB.db. Yet, haven't finished. It was planned to store data there and make application work and show the last updated data when offline. 
+Additionally, there was created database file tith the name of examinationDB.db. Yet, haven't finished. It was planned to store data there and make application work and show the last updated data when offline. \
+
+## A short .gif intro to the application
+
 
 ## Screenshots given on this app
-##![1](https://user-images.githubusercontent.com/87451215/129060007-b91ea0e3-adf8-477a-86a3-e960830ba297.png)
+![1](https://user-images.githubusercontent.com/87451215/129060007-b91ea0e3-adf8-477a-86a3-e960830ba297.png)
 ![2](https://user-images.githubusercontent.com/87451215/129060027-5a7c450b-45c7-4b9b-8a33-9ec169159fb2.png)
 ![3](https://user-images.githubusercontent.com/87451215/129060033-bd8afb70-e604-46d7-b7b8-7f6b05b939ec.png)
 ![4](https://user-images.githubusercontent.com/87451215/129060112-8c015af5-4c8d-482c-8371-a680aef5e99c.png)
