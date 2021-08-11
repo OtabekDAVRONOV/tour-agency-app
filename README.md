@@ -26,17 +26,13 @@ As it is known from given paths, thes .ttf files were downloaded first, and plac
 Additionally, there was created database file tith the name of examinationDB.db. Yet, haven't finished. It was planned to store data there and make application work and show the last updated data when offline. 
 
 ## Screenshots given on this app
-![1](https://user-images.githubusercontent.com/87451215/129060007-b91ea0e3-adf8-477a-86a3-e960830ba297.png)
+##![1](https://user-images.githubusercontent.com/87451215/129060007-b91ea0e3-adf8-477a-86a3-e960830ba297.png)
 ![2](https://user-images.githubusercontent.com/87451215/129060027-5a7c450b-45c7-4b9b-8a33-9ec169159fb2.png)
 ![3](https://user-images.githubusercontent.com/87451215/129060033-bd8afb70-e604-46d7-b7b8-7f6b05b939ec.png)
 ![4](https://user-images.githubusercontent.com/87451215/129060112-8c015af5-4c8d-482c-8371-a680aef5e99c.png)
-![5](https://user-images.githubusercontent.com/87451215/129060120-ea1111b5-c428-4127-8257-fafc23e8ffa8.png)
-![6](https://user-images.githubusercontent.com/87451215/129060176-dbe91a3d-bf49-4461-8396-9555dd0be03f.png)
 ![7](https://user-images.githubusercontent.com/87451215/129060215-ebfca3c5-ae06-445d-81a7-12209938107e.png)
 ![8](https://user-images.githubusercontent.com/87451215/129060233-560d841a-cce6-44db-99ba-52124486c45c.png)
 ![9](https://user-images.githubusercontent.com/87451215/129060258-ceb9a507-91a1-4740-875f-74ca2250f298.png)
-![10](https://user-images.githubusercontent.com/87451215/129060271-02d6c2c6-086b-44cc-b415-ff9254ceeecd.png)
-![11](https://user-images.githubusercontent.com/87451215/129060284-7ab0c9d7-606f-4ff5-8fba-d63c571f3ab9.png)
 ![12](https://user-images.githubusercontent.com/87451215/129060300-d1229070-0a4e-4529-a800-e3f248e44220.png)
 ![13](https://user-images.githubusercontent.com/87451215/129060308-1f2eb260-1bc1-4aaf-9952-15a9cd699334.png)
 ![14](https://user-images.githubusercontent.com/87451215/129060319-1f5b8a32-e482-4871-a7b3-615641523ef4.png)
